@@ -1,3 +1,4 @@
+[![Downloads](https://pepy.tech/badge/pyxelunicode)](https://pepy.tech/project/pyxelunicode)
 # PyxelUnicode
 
 为pyxel设计的点阵字生成器
