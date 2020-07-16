@@ -1,3 +1,4 @@
+[![Downloads](https://pepy.tech/badge/pyxelunicode)](https://pepy.tech/project/pyxelunicode)
 # PyxelUnicode
 
 a unicode pixel font builder for pyxel
