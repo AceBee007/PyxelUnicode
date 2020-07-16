@@ -1,3 +1,4 @@
+[![Downloads](https://pepy.tech/badge/pyxelunicode)](https://pepy.tech/project/pyxelunicode)
 # PyxelUnicode
 
 Pyxel用のファミコン風フォントビルダー
